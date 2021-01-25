@@ -1,0 +1,15 @@
+# Created by Octave 5.1.0, Fri Jan 08 23:45:54 2021 GMT <unknown@LAPTOP-03DJVE52>
+# name: email
+# type: sq_string
+# elements: 1
+# length: 27
+jose.luis.veron@hotmail.com
+
+
+# name: token
+# type: sq_string
+# elements: 1
+# length: 16
+4UJh9WJAnMUShR5t
+
+
